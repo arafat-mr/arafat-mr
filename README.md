@@ -11,13 +11,9 @@
 
 - 🌱 I’m currently learning **Next js**
 
-- 👯 I’m looking to collaborate on [interesting projects](#)
+- 👯 I’m looking to collaborate on interesting projects
 
-- 🤝 I’m looking for help with [#](#)
 
-- 👨‍💻 All of my projects are available at [#](#)
-
-- 📝 I regularly write articles on [#](#)
 
 - 💬 Ask me about **React, MongoDB , Tailwind CSS**
 
