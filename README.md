@@ -35,7 +35,7 @@ Here are some of the key technologies I work with:
   🌐 Connect With Me
 </h2>
 <div align="center" style="margin-top: 10px;">
-  <a href="https://instagram.com/arafat_mr" target="_blank" rel="noopener noreferrer" 
+  <a href="https://www.instagram.com/4rafat.mr?igsh=MW83ZnkybW0wZjkycg==" target="_blank" rel="noopener noreferrer" 
      style="display: inline-block; background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); padding: 10px; border-radius: 50%; width: 50px; height: 50px; margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
          alt="Instagram" width="30" height="30" style="filter: invert(1);" />
