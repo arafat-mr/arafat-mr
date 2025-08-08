@@ -1,5 +1,10 @@
-<h1 align="center">Hi 👋, I'm Yeasin Arafat</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p align="center">
+  <img src="https://i.ibb.co/1fqc8kqv/Chat-GPT-Image-Aug-8-2025-03-10-42-PM.png" alt="Cover" />
+</p>
+
+<h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer from Bangladesh</h1>
+<h3 align="center">I create modern, responsive web apps using React, Tailwind CSS, and MongoDB.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-mr&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-mr" /> </p>
 
