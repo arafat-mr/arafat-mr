@@ -10,6 +10,8 @@
 ---
 
 <!-- Tech Stack -->
+Here are some of the key technologies I work with:
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
@@ -29,11 +31,7 @@
 
 ---
 
-<!-- Projects Section -->
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">Coming Soon...</p>
 
----
 
 <!-- Social Links -->
 <h2 align="center">🌐 Connect With Me</h2>
