@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="YOUR_COVER_IMAGE_URL" alt="Cover" />
+  <img src="[YOUR_COVER_IMAGE_URL](https://i.ibb.co/1fqc8kqv/Chat-GPT-Image-Aug-8-2025-03-10-42-PM.png)" alt="Cover" />
 </p>
 
 <!-- Name & Intro -->
