@@ -34,14 +34,12 @@ Here are some of the key technologies I work with:
 <h2 align="center" style="font-family: Arial, sans-serif; color: #333;">
   🌐 Connect With Me
 </h2>
-
-<div style="display: flex; justify-content: center; gap: 30px; margin-top: 10px;">
+<p align="center">
   <a href="https://facebook.com/yourprofile" target="_blank" rel="noopener noreferrer" 
-     style="display: inline-flex; align-items: center; justify-content: center; background: #1877F2; padding: 10px; border-radius: 50%; width: 50px; height: 50px;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook" width="30" height="30" style="filter: invert(1);" />
+     style="display: inline-flex; align-items: center; justify-content: center; background: #1877F2; padding: 10px; border-radius: 50%; width: 50px; height: 50px;"
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+         alt="Facebook" width="30" height="30" style="filter: invert(1);"/>
   </a>
-  
   <a href="https://instagram.com/yourprofile" target="_blank" rel="noopener noreferrer" 
      style="display: inline-flex; align-items: center; justify-content: center; background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); padding: 10px; border-radius: 50%; width: 50px; height: 50px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
@@ -53,4 +51,5 @@ Here are some of the key technologies I work with:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="30" height="30" style="filter: invert(1);" />
   </a>
-</div>
+</p>
+
