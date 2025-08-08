@@ -24,9 +24,7 @@ Here are some of the key technologies I work with:
 <!-- Daily.dev Card -->
 <h2 align="center">📊 My Developer Activity</h2>
 <p align="center">
-  <a href="https://daily.dev">
-    <img src="YOUR_DAILY_DEV_CARD_URL" width="400" alt="Daily.dev Card"/>
-  </a>
+  Consistent coding and continuous learning.  
 </p>
 
 ---
