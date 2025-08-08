@@ -10,7 +10,10 @@
 ---
 
 <!-- Tech Stack -->
+<p style="font-size:20px">
+  
 Here are some of the key technologies I work with:
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
