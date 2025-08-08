@@ -32,7 +32,7 @@
 <p align="center" style="font-size: 16px; color: #10B981; font-weight: 500; margin-bottom: 20px; letter-spacing: 1.1px;">
   Consistent coding and continuous learning.  
 </p>
----
+
 
 
 
