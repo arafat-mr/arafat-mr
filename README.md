@@ -34,3 +34,12 @@ Here are some of the key technologies I work with:
 <h2 align="center" style="font-family: Arial, sans-serif; color: #333;">
   🌐 Connect With Me
 </h2>
+
+<a href="https://instagram.com/arafat_mr" target="_blank" rel="noopener noreferrer" 
+   style="display: inline-flex; align-items: center; justify-content: center; 
+          background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, 
+          #fd5949 45%, #d6249f 60%, #285AEB 90%); padding: 10px; border-radius: 50%; 
+          width: 50px; height: 50px; margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
+       alt="Instagram" width="30" height="30" style="filter: invert(1);" />
+</a>
