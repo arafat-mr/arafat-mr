@@ -34,7 +34,7 @@ Here are some of the key technologies I work with:
 <h2 align="center" style="font-family: Arial, sans-serif; color: #333;">
   🌐 Connect With Me
 </h2>
-<div align='center' style="display: flex; justify-content: center; gap: 30px; margin-top: 10px;">
+<div align='center' style="display: flex; justify-content: space-between; gap: 30px; margin-top: 10px;">
   <a href="https://instagram.com/arafat_mr" target="_blank" rel="noopener noreferrer" 
    style="display: inline-flex; align-items: center; justify-content: center; 
           background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, 
