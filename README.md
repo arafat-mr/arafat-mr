@@ -43,5 +43,13 @@ Here are some of the key technologies I work with:
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
        alt="Instagram" width="30" height="30" style="filter: invert(1);" />
 </a>
+  <a href="https://facebook.com/arafat.mr" target="_blank" rel="noopener noreferrer" 
+   style="display: inline-flex; align-items: center; justify-content: center; 
+          background: #1877F2; padding: 10px; border-radius: 50%; 
+          width: 50px; height: 50px; margin: 0 10px;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
+       alt="Facebook" width="30" height="30" style="filter: invert(1);" />
+</a>
+
 </p>
 
