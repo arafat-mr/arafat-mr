@@ -10,12 +10,9 @@
 ---
 
 <!-- Tech Stack -->
-<p style="font-size: 20px; color: #4F46E5; font-weight: 600; text-align: center; 
-          background: linear-gradient(90deg, #6366F1, #8B5CF6, #A78BFA); 
-          -webkit-background-clip: text; -webkit-text-fill-color: transparent; 
-          margin-bottom: 20px;">
+<h3>
   Here are some of the key technologies I work with:
-</p>
+</h3>
 
 
 <p align="center">
