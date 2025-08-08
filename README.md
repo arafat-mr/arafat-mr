@@ -10,10 +10,13 @@
 ---
 
 <!-- Tech Stack -->
-<p style="font-size:20px">
-  
-Here are some of the key technologies I work with:
+<p style="font-size: 20px; color: #4F46E5; font-weight: 600; text-align: center; 
+          background: linear-gradient(90deg, #6366F1, #8B5CF6, #A78BFA); 
+          -webkit-background-clip: text; -webkit-text-fill-color: transparent; 
+          margin-bottom: 20px;">
+  Here are some of the key technologies I work with:
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
@@ -26,10 +29,9 @@ Here are some of the key technologies I work with:
 
 <!-- Daily.dev Card -->
 <h2 align="center">📊 My Developer Activity</h2>
-<p align="center">
+<p align="center" style="font-size: 16px; color: #10B981; font-weight: 500; margin-bottom: 20px; letter-spacing: 1.1px;">
   Consistent coding and continuous learning.  
 </p>
-
 ---
 
 
