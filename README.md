@@ -38,16 +38,16 @@ Here are some of the key technologies I work with:
   <a href="https://www.instagram.com/4rafat.mr?igsh=MW83ZnkybW0wZjkycg==" target="_blank" rel="noopener noreferrer" 
      style="display: inline-block; background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%); padding: 10px; border-radius: 50%; width: 50px; height: 50px; margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" 
-         alt="Instagram" width="30" height="30" style="filter: invert(1);" />
+         alt="Instagram" width="40" height="40" style="filter: invert(1);" />
   </a>
   <a href="https://www.facebook.com/share/1HVAyqPVHd/" target="_blank" rel="noopener noreferrer" 
      style="display: inline-block; background: #1877F2; padding: 10px; border-radius: 50%; width: 50px; height: 50px; margin-right: 30px;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
-         alt="Facebook" width="30" height="30" style="filter: invert(1);" />
+         alt="Facebook" width="40" height="40" style="filter: invert(1);" />
   </a>
   <a href="https://linkedin.com/in/#" target="_blank" rel="noopener noreferrer" 
      style="display: inline-block; background: #0A66C2; padding: 10px; border-radius: 50%; width: 50px; height: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-         alt="LinkedIn" width="30" height="30" style="filter: invert(1);" />
+         alt="LinkedIn" width="40" height="40" style="filter: invert(1);" />
   </a>
 </div>
