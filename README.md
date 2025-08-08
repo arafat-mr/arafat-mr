@@ -50,8 +50,7 @@ Here are some of the key technologies I work with:
   
   <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" 
      style="display: inline-block; background: #0A66C2; padding: 10px; border-radius: 50%;">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" 
-         alt="LinkedIn" height="30" width="30" style="filter: invert(1);"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         alt="LinkedIn" height="30" width="30" style="filter: invert(1);" />
   </a>
 </p>
-
