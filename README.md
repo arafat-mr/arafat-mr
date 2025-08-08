@@ -54,6 +54,3 @@ Here are some of the key technologies I work with:
          alt="LinkedIn" width="30" height="30" style="filter: invert(1);" />
   </a>
 </div>
-eight="30" width="30" style="filter: invert(1);" />
-  </a>
-</p>
