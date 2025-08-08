@@ -45,7 +45,7 @@ Here are some of the key technologies I work with:
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" 
          alt="Facebook" width="30" height="30" style="filter: invert(1);" />
   </a>
-  <a href="https://linkedin.com/in/arafat-mr" target="_blank" rel="noopener noreferrer" 
+  <a href="https://linkedin.com/in/#" target="_blank" rel="noopener noreferrer" 
      style="display: inline-block; background: #0A66C2; padding: 10px; border-radius: 50%; width: 50px; height: 50px;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
          alt="LinkedIn" width="30" height="30" style="filter: invert(1);" />
