@@ -26,9 +26,9 @@
 
 <!-- Daily.dev Card -->
 <h2 align="center">📊 My Developer Activity</h2>
-<p align="center" style="font-size: 16px; color: #10B981; font-weight: 500; margin-bottom: 20px; letter-spacing: 1.1px;">
+<h3 align="center" style="font-size: 16px; color: #10B981; font-weight: 500; margin-bottom: 20px; letter-spacing: 1.1px;">
   Consistent coding and continuous learning.  
-</p>
+</h3>
 
 
 
