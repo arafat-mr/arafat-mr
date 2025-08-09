@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://www.canva-hosted-embed.com/codelet/bjcck225pwbje906
+  <img src="https://i.ibb.co/ynjyKByg/Listen-i-will-give-prompt-u-have-to-generat-image-Whiteboard-08-09-2025-04-34-AM.png
 " alt="Cover" />
 </p>
 
