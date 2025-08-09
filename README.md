@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/b5cjnX6q/Listen-i-will-give-prompt-u-have-to-generat-image-1.png" alt="Cover" />
+  <img src="https://ibb.co/HD8zRpzG" alt="Cover" />
 </p>
 
 <h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer from Bangladesh</h1>
