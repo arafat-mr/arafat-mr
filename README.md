@@ -1,6 +1,7 @@
 
 <p align="center">
-  <img src="https://www.canva.com/design/DAGviE929eQ/X3I3Bafhbp6oPgfXd0bD4Q/edit" alt="Cover" />
+  <img src="https://www.canva-hosted-embed.com/codelet/bjcck225pwbje906
+" alt="Cover" />
 </p>
 
 <h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer from Bangladesh</h1>
