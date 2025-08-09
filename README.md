@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/ynjyKByg/Listen-i-will-give-prompt-u-have-to-generat-image-Whiteboard-08-09-2025-04-34-AM.png
-" alt="Cover" />
+  <img src="https://i.ibb.co/ynjyKByg/Listen-i-will-give-prompt-u-have-to-generat-image-Whiteboard-08-09-2025-04-34-AM.png" alt="Cover" />
 </p>
 
 <h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer from Bangladesh</h1>
