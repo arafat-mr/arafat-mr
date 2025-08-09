@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://i.ibb.co/1fqc8kqv/Chat-GPT-Image-Aug-8-2025-03-10-42-PM.png" alt="Cover" />
+  <img src="https://i.ibb.co/3Vfj8Dn/Canva-AI-Canva-08-09-2025-04-24-AM.png" alt="Cover" />
 </p>
 
 <h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer from Bangladesh</h1>
