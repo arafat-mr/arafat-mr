@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Smart-Bazar](https://gleaming-alpaca-00df2d.netlify.app/)
+- 🔭 I’m currently working on [Eduverse([(https://eduverse-one-gamma.vercel.app/])
 
 - 🌱 I’m currently learning **Next js**
 
