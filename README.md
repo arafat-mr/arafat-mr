@@ -3,7 +3,7 @@
   <img src="https://i.ibb.co/b5cjnX6q/Listen-i-will-give-prompt-u-have-to-generat-image-1.png" alt="Cover" />
 </p>
 
-<h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer</h1>
+<h1 align="center">Hi 👋, I'm  <b>Yeasin Arafat</b> . A Frontend developer.</h1>
 <h3 align="center">I’m a dedicated frontend developer with expertise in React, Tailwind CSS, and MongoDB, crafting seamless and visually engaging web experiences. I combine clean code with creative design to build solutions that are both functional and user-focused. Driven by curiosity, I’m always exploring new technologies to deliver exceptional results.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arafat-mr&label=Profile%20views&color=0e75b6&style=flat" alt="arafat-mr" /> </p>
